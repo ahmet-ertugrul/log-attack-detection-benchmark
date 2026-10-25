@@ -5,6 +5,14 @@ type: software
 version: 1.0.0
 date-released: 2026-10-26
 license: MIT
+doi: 10.5281/zenodo.23644755
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23644755
+    description: "Version 1.0.0 (results reported in the chapter)"
+  - type: doi
+    value: 10.5281/zenodo.23644754
+    description: "Concept DOI (all versions)"
 repository-code: "https://github.com/ahmet-ertugrul/log-attack-detection-benchmark"
 authors:
   - family-names: "Ertuğrul"

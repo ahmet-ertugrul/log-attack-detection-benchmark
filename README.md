@@ -1,5 +1,7 @@
 # Log-Based Attack Detection Benchmark
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23644755.svg)](https://doi.org/10.5281/zenodo.23644755)
+
 Code and results for the book chapter:
 
 > Ertuğrul, A., & Taymaz, T. (2026). *Machine learning–based cyber attack detection through log analysis: Architecture and benchmark evaluation for an OPNsense-based firewall* [Book chapter, forthcoming]. Özgür Yayınları.
@@ -89,4 +91,8 @@ The first author is a co-founder of a technology company that develops the OPNse
 
 ## Citation
 
-Please cite the book chapter and this repository (see `CITATION.cff`).
+Please cite the book chapter and this software:
+
+> Ertuğrul, A., & Taymaz, T. (2026). *Log-based attack detection benchmark* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23644755
+
+The DOI above identifies version 1.0.0, which produced the results reported in the chapter. The concept DOI [10.5281/zenodo.23644754](https://doi.org/10.5281/zenodo.23644754) always resolves to the latest version. Machine-readable metadata are in `CITATION.cff`.
