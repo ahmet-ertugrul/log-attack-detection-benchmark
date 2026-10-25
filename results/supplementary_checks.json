@@ -1,0 +1,44 @@
+{
+  "duplicate_uid_groups": 443526,
+  "duplicate_uid_groups_with_differing_fields": 0,
+  "attack_campaign_start": {
+    "z22_part1": "2022-02-10 03:58:29.979958057",
+    "z22_part2": "2022-02-11 09:52:26.618216038",
+    "z22_part3": "2022-02-10 14:46:55.511163950",
+    "z22_part4": "2022-02-10 05:00:04.097829103",
+    "z22_part5": "2022-02-10 04:00:00.089252949"
+  },
+  "E1_counts": {
+    "train_benign": 139999,
+    "train_attack": 2840,
+    "test_benign": 60001,
+    "test_attack": 1217
+  },
+  "E1_test_attack_share_with_window_in_train": 1.0,
+  "E2_counts": {
+    "z22_part2": {
+      "train_benign": 150000,
+      "train_attack": 1971,
+      "test_benign": 60000,
+      "test_attack": 2086
+    },
+    "z22_part4": {
+      "train_benign": 150000,
+      "train_attack": 3242,
+      "test_benign": 60000,
+      "test_attack": 815
+    },
+    "z22_part5": {
+      "train_benign": 150000,
+      "train_attack": 2927,
+      "test_benign": 60000,
+      "test_attack": 1130
+    }
+  },
+  "E3_counts": {
+    "train_benign": 200000,
+    "train_attack": 4057,
+    "test_benign": 47906,
+    "test_attack": 2909
+  }
+}

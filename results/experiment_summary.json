@@ -1,0 +1,24 @@
+{
+  "seed": 42,
+  "rule_thresholds": {
+    "dports": 15,
+    "dips": 15,
+    "min_conn": 20,
+    "fail_frac": 0.5
+  },
+  "n_features_conn": 72,
+  "n_features_all": 76,
+  "z22_counts": {
+    "none": 1096517,
+    "Discovery": 2086,
+    "Reconnaissance": 1971
+  },
+  "z24_counts": {
+    "none": 47906,
+    "Credential Access": 43494,
+    "Reconnaissance": 2909,
+    "Initial Access": 561,
+    "Valid Accounts (T1078)": 292,
+    "Exfiltration": 20
+  }
+}

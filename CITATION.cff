@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite it as below."
+title: "Log-Based Attack Detection Benchmark"
+type: software
+version: 1.0.0
+date-released: 2026-10-26
+license: MIT
+repository-code: "https://github.com/ahmet-ertugrul/log-attack-detection-benchmark"
+authors:
+  - family-names: "Ertuğrul"
+    given-names: "Ahmet"
+    affiliation: "Afyon Kocatepe University"
+    orcid: "https://orcid.org/0000-0003-0002-0389"
+  - family-names: "Taymaz"
+    given-names: "Turgay"
+    affiliation: "Afyon Kocatepe University"
+    orcid: "https://orcid.org/0000-0002-1718-4315"
+keywords:
+  - intrusion detection
+  - log analysis
+  - machine learning
+  - Zeek
+  - evaluation methodology

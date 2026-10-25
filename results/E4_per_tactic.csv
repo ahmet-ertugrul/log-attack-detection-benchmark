@@ -1,0 +1,25 @@
+model,tactic,n,detected_frac
+LogisticRegression,Credential Access,13048,1.0
+LogisticRegression,Exfiltration,6,1.0
+LogisticRegression,Initial Access,168,1.0
+LogisticRegression,Reconnaissance,873,0.9851088201603666
+LogisticRegression,Valid Accounts (T1078),88,1.0
+LogisticRegression,none,14372,0.002226551628165878
+RandomForest,Credential Access,13048,1.0
+RandomForest,Exfiltration,6,1.0
+RandomForest,Initial Access,168,1.0
+RandomForest,Reconnaissance,873,0.995418098510882
+RandomForest,Valid Accounts (T1078),88,1.0
+RandomForest,none,14372,0.0020873921514055105
+HistGradientBoosting,Credential Access,13048,1.0
+HistGradientBoosting,Exfiltration,6,1.0
+HistGradientBoosting,Initial Access,168,1.0
+HistGradientBoosting,Reconnaissance,873,0.9965635738831615
+HistGradientBoosting,Valid Accounts (T1078),88,1.0
+HistGradientBoosting,none,14372,0.0021569718897856945
+IsolationForest,Credential Access,13048,1.0
+IsolationForest,Exfiltration,6,1.0
+IsolationForest,Initial Access,168,1.0
+IsolationForest,Reconnaissance,873,0.9805269186712485
+IsolationForest,Valid Accounts (T1078),88,1.0
+IsolationForest,none,14372,0.010645699972168104
